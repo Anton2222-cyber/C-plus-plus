@@ -1,0 +1,43 @@
+﻿  ConsoleApplication2.cpp
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(9,9): error C3646: 'Name': unknown override specifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(9,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(12,8): error C2061: syntax error: identifier 'string'
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(14,3): error C2065: 'Name': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(14,10): error C2065: 'a': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(15,12): error C2065: 'b': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(19,3): error C2065: 'cout': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(19,41): error C2065: 'Name': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(19,49): error C2065: 'endl': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(20,3): error C2065: 'cout': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(20,64): error C2065: 'endl': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(26,9): error C3646: 'Lastname': unknown override specifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(26,17): error C2143: syntax error: missing ',' before '['
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(26,23): error C2238: unexpected token(s) preceding ';'
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(27,9): error C3646: 'Firstname': unknown override specifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(27,18): error C2143: syntax error: missing ',' before '['
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(27,24): error C2238: unexpected token(s) preceding ';'
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(28,9): error C3646: 'Surname': unknown override specifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(28,16): error C2143: syntax error: missing ',' before '['
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(28,22): error C2238: unexpected token(s) preceding ';'
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(30,11): error C2061: syntax error: identifier 'string'
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(32,5): error C2065: 'i': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(33,3): error C2065: 'Lastname': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(33,12): error C2065: 'i': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(33,17): error C2065: 'a': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(34,3): error C2065: 'Firstname': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(34,13): error C2065: 'i': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(34,18): error C2065: 'b': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(35,3): error C2065: 'Surname': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(35,11): error C2065: 'i': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(35,16): error C2065: 'c': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(40,3): error C2065: 'cout': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(40,71): error C2065: 'Lastname': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(40,86): error C2065: 'endl': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(41,3): error C2065: 'cout': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(41,62): error C2065: 'Firstname': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(41,78): error C2065: 'endl': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(42,3): error C2065: 'cout': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(42,76): error C2065: 'Surname': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(42,90): error C2065: 'endl': undeclared identifier
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(61,18): error C2661: 'group::group': no overloaded function takes 2 arguments
+E:\с++\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(66,27): error C2661: 'Students::Students': no overloaded function takes 4 arguments

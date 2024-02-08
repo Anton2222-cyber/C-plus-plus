@@ -1,0 +1,5 @@
+﻿  РОБОТА з ФАЙЛАМИ.cpp
+E:\с++\РОБОТА з ФАЙЛАМИ\РОБОТА з ФАЙЛАМИ\РОБОТА з ФАЙЛАМИ.cpp(16,12): warning C4101: 'a': unreferenced local variable
+E:\с++\РОБОТА з ФАЙЛАМИ\РОБОТА з ФАЙЛАМИ\РОБОТА з ФАЙЛАМИ.cpp(27,9): warning C4101: 'tmp': unreferenced local variable
+E:\с++\РОБОТА з ФАЙЛАМИ\РОБОТА з ФАЙЛАМИ\РОБОТА з ФАЙЛАМИ.cpp(16,9): warning C4101: 'n': unreferenced local variable
+  РОБОТА з ФАЙЛАМИ.vcxproj -> E:\с++\РОБОТА з ФАЙЛАМИ\Debug\РОБОТА з ФАЙЛАМИ.exe

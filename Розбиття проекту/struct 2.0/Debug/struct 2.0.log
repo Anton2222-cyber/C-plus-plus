@@ -1,0 +1,8 @@
+﻿  prog.cpp
+E:\с++\Розбиття проекту\struct 2.0\function.h(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\с++\Розбиття проекту\struct 2.0\prog.cpp(22): message : see reference to function template instantiation 'void Set_random<float>(const int,F [])' being compiled
+          with
+          [
+              F=float
+          ]
+  struct 2.0.vcxproj -> E:\с++\Розбиття проекту\Debug\struct 2.0.exe

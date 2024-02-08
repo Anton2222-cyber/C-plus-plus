@@ -1,0 +1,72 @@
+bool b;
+
+	do {
+		b = false;
+		for (int i = 0; i < *s - 1; i++) {
+			if (pricelist[i].cost > pricelist[i+1].cost) 
+			{
+				char temp[size];
+				int temp2;
+				strcpy(temp, pricelist[i].element);
+				strcpy(pricelist[i].element, pricelist[i + 1].element);
+				strcpy(pricelist[i + 1].element, temp);
+
+
+				temp2 = pricelist[i].cost;
+				pricelist[i].cost = pricelist[i + 1].cost;
+				pricelist[i + 1].cost = temp2;
+
+				temp2 = pricelist[i].number;
+				pricelist[i].number = pricelist[i + 1].number;
+				pricelist[i + 1].number = temp2;
+
+				b = true;
+			}
+		}
+	} while (b);
+	cout << "Відсортовано!" << endl;
+	return pricelist;
+
+
+
+
+
+
+або
+
+Pricelist* Sort_by_element(Pricelist* pricelist, int* s)
+{
+	bool b;
+
+	do {
+		b = false;
+		for (int i = 0; i < *s - 1; i++) {
+			if (strcmp(pricelist[i].element, pricelist[i+1].element) == 1) 
+			{
+				char temp[size];
+				int temp2;
+				strcpy(temp, pricelist[i].element);
+				strcpy(pricelist[i].element, pricelist[i+1].element);
+				strcpy(pricelist[i+1].element, temp);
+
+
+				temp2 = pricelist[i].cost;
+				pricelist[i].cost = pricelist[i + 1].cost;
+				pricelist[i + 1].cost = temp2;
+
+				temp2 = pricelist[i].number;
+				pricelist[i].number = pricelist[i + 1].number;
+				pricelist[i + 1].number = temp2;
+				
+				b = true;
+			}
+		}
+	} while (b);
+	cout << "Відсортовано!" << endl;
+	return pricelist;
+}
+
+
+
+
+

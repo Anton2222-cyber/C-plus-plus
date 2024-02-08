@@ -1,0 +1,3 @@
+﻿  Qiick poisk.cpp
+E:\с++\Qiick poisk\Qiick poisk\Qiick poisk.cpp(39,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Qiick poisk.vcxproj -> E:\с++\Qiick poisk\Debug\Qiick poisk.exe

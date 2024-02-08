@@ -1,0 +1,3 @@
+﻿  Dynamic massiv.cpp
+E:\с++\Dynamic massiv\Dynamic massiv\Dynamic massiv.cpp(60,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Dynamic massiv.vcxproj -> E:\с++\Dynamic massiv\Debug\Dynamic massiv.exe

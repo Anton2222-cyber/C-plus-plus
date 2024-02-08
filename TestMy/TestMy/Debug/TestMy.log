@@ -1,0 +1,11 @@
+﻿  TestMy.cpp
+E:\с++\TestMy\TestMy\TestMy.cpp(36,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\TestMy\TestMy\TestMy.cpp(48,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\TestMy\TestMy\TestMy.cpp(65,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\TestMy\TestMy\TestMy.cpp(98,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\TestMy\TestMy\TestMy.cpp(107,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\TestMy\TestMy\TestMy.cpp(121,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\TestMy\TestMy\TestMy.cpp(135,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\TestMy\TestMy\TestMy.cpp(148,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\TestMy\TestMy\TestMy.cpp(159,21): warning C4018: '<': signed/unsigned mismatch
+  TestMy.vcxproj -> E:\с++\TestMy\Debug\TestMy.exe

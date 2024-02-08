@@ -1,0 +1,3 @@
+﻿  Viber class.cpp
+E:\с++\Viber class\Viber class\Viber class.cpp(323,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Viber class.vcxproj -> E:\с++\Viber class\Debug\Viber class.exe

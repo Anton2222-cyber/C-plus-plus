@@ -1,0 +1,4 @@
+﻿  Obekt programing1.1.cpp
+E:\с++\Obekt programing1.1\Obekt programing1.1\Obekt programing1.1.cpp(68,11): warning C4930: 'group Print(void)': prototyped function not called (was a variable definition intended?)
+E:\с++\Obekt programing1.1\Obekt programing1.1\Obekt programing1.1.cpp(53,9): warning C4101: 'temp2': unreferenced local variable
+  Obekt programing1.1.vcxproj -> E:\с++\Obekt programing1.1\Debug\Obekt programing1.1.exe

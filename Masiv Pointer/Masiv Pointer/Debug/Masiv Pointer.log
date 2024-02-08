@@ -1,0 +1,3 @@
+﻿  Masiv Pointer.cpp
+E:\с++\Masiv Pointer\Masiv Pointer\Masiv Pointer.cpp(94,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Masiv Pointer.vcxproj -> E:\с++\Masiv Pointer\Debug\Masiv Pointer.exe

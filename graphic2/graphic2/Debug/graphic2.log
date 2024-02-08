@@ -1,0 +1,20 @@
+﻿  Source.cpp
+E:\с++\graphic2\graphic2\Source.cpp(66,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\с++\graphic2\graphic2\Source.cpp(72,31): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\с++\graphic2\graphic2\Source.cpp(105,43): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+E:\с++\graphic2\graphic2\Source.cpp(145,59): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  graphic2.vcxproj -> E:\с++\graphic2\Debug\graphic2.exe
+  E:\с++\graphic2\packages\SFML-cpp.redist.2.5.1.1\build\native\bin\Win32\Debug\openal32.dll
+  1 File(s) copied

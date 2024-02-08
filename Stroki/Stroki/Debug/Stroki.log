@@ -1,0 +1,7 @@
+﻿  Stroki.cpp
+E:\с++\Stroki\Stroki\GameSnake.h(70,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\с++\Stroki\Stroki\GameSnake.h(78,17): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+E:\с++\Stroki\Stroki\GameSnake.h(81,19): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+E:\с++\Stroki\Stroki\GameSnake.h(91,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+E:\с++\Stroki\Stroki\GameSnake.h(142,21): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+  Stroki.vcxproj -> E:\с++\Stroki\Debug\Stroki.exe

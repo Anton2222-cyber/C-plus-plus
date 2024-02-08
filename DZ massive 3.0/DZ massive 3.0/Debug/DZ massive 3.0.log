@@ -1,0 +1,3 @@
+﻿  DZ massive 3.0.cpp
+E:\с++\DZ massive 3.0\DZ massive 3.0\DZ massive 3.0.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DZ massive 3.0.vcxproj -> E:\с++\DZ massive 3.0\Debug\DZ massive 3.0.exe

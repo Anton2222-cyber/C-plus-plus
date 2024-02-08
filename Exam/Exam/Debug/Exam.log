@@ -1,0 +1,18 @@
+﻿  Exam.cpp
+E:\с++\Exam\Exam\Exam.cpp(126,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(157,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(188,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(221,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(258,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(289,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(300,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(320,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(345,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(354,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(374,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(399,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(475,22): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(482,22): warning C4018: '>': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(616,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Exam\Exam\Exam.cpp(644,23): warning C4018: '<': signed/unsigned mismatch
+  Exam.vcxproj -> E:\с++\Exam\Debug\Exam.exe

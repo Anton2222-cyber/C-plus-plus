@@ -1,0 +1,22 @@
+char* String_for_anything()
+	{
+		char* tmp = NULL;
+		int k = 0;
+		do
+		{
+			char s;
+			s = _getch();
+
+			cout << s;
+			if (s == 13)
+				break;
+			tmp = (char*)realloc(tmp, sizeof(char) * (k + 1));
+			tmp[k] = s;
+			k++;
+		} while (true);
+		tmp = (char*)realloc(tmp, sizeof(char) * (k + 1));
+		tmp[k] = '\0';
+		cout << endl;
+
+		return tmp;
+	}

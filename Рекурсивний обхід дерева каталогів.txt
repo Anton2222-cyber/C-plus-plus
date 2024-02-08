@@ -1,0 +1,36 @@
+bool Is_dir(_finddata_t& f)
+{
+	return (f.attrib == 16) && strcmp(f.name, "..") && strcmp(f.name, ".");
+}
+
+bool Is_file(_finddata_t& f)
+{
+	return !(f.attrib == 18 || f.attrib == 16);
+}
+
+void ADDDIR(vector<string>& vect, string general_dir)
+{
+	string dir_now = general_dir;
+	dir_now += "\\*.*";
+	_finddata_t file;
+	intptr_t Path = _findfirst(dir_now.c_str(), &file);
+
+	string tmp_dir;
+
+	do
+	{
+		if (Is_dir(file))
+		{
+			tmp_dir += general_dir;
+			tmp_dir += "\\";
+			tmp_dir += file.name;
+			vect.push_back(file.name);
+			ADDDIR(vect, tmp_dir);
+			tmp_dir.clear();
+		}
+		if (Is_file(file))
+		{
+			vect.push_back(file.name);
+		}
+	} while (_findnext(Path, &file) == 0);
+}

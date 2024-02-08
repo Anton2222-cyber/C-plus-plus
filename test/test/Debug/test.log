@@ -1,0 +1,8 @@
+﻿  List.cpp
+  test.cpp
+E:\с++\test\test\test.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+test.obj : error LNK2019: unresolved external symbol "public: __thiscall List<int>::List<int>(void)" (??0?$List@H@@QAE@XZ) referenced in function _main
+test.obj : error LNK2019: unresolved external symbol "public: __thiscall List<int>::~List<int>(void)" (??1?$List@H@@QAE@XZ) referenced in function __catch$_main$0
+test.obj : error LNK2019: unresolved external symbol "public: void __thiscall List<int>::Delete_Someone(int)" (?Delete_Someone@?$List@H@@QAEXH@Z) referenced in function _main
+E:\с++\test\Debug\test.exe : fatal error LNK1120: 3 unresolved externals

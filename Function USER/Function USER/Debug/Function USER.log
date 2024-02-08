@@ -1,0 +1,6 @@
+﻿  Function USER.cpp
+E:\с++\Function USER\Function USER\Function USER.cpp(131,22): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Function USER\Function USER\Function USER.cpp(139,22): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Function USER\Function USER\Function USER.cpp(158,22): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Function USER\Function USER\Function USER.cpp(195,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Function USER.vcxproj -> E:\с++\Function USER\Debug\Function USER.exe

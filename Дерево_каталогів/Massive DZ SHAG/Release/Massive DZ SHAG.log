@@ -1,0 +1,12 @@
+﻿  Massive DZ SHAG.cpp
+E:\с++\Дерево_каталогів\Massive DZ SHAG\Massive DZ SHAG.cpp(50,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Дерево_каталогів\Massive DZ SHAG\Massive DZ SHAG.cpp(60,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Дерево_каталогів\Massive DZ SHAG\Massive DZ SHAG.cpp(70,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Дерево_каталогів\Massive DZ SHAG\Massive DZ SHAG.cpp(79,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Дерево_каталогів\Massive DZ SHAG\Massive DZ SHAG.cpp(94,21): warning C4018: '<': signed/unsigned mismatch
+E:\с++\Дерево_каталогів\Massive DZ SHAG\Massive DZ SHAG.cpp(432,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 197 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Massive DZ SHAG.vcxproj -> E:\с++\Дерево_каталогів\Release\Massive DZ SHAG.exe

@@ -1,0 +1,3 @@
+﻿  Rekyrsia.cpp
+E:\с++\Rekyrsia\Rekyrsia\Rekyrsia.cpp(22,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rekyrsia.vcxproj -> E:\с++\Rekyrsia\Debug\Rekyrsia.exe

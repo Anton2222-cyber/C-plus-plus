@@ -1,0 +1,3 @@
+﻿  Obekt programing2.0.cpp
+E:\с++\Obekt programing2.0\Obekt programing2.0\Header.h(222): warning C4715: 'List<Worker>::operator[]': not all control paths return a value
+  Obekt programing2.0.vcxproj -> E:\с++\Obekt programing2.0\Debug\Obekt programing2.0.exe

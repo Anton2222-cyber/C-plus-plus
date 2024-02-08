@@ -1,0 +1,6 @@
+﻿  умова шаг.cpp
+E:\с++\умова шаг\умова шаг\умова шаг.cpp(18,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\с++\умова шаг\умова шаг\умова шаг.cpp(19,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\с++\умова шаг\умова шаг\умова шаг.cpp(26,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\с++\умова шаг\умова шаг\умова шаг.cpp(46,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  умова шаг.vcxproj -> E:\с++\умова шаг\Debug\умова шаг.exe
